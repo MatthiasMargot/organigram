@@ -1,6 +1,4 @@
-<h1 align="center">
-<strong>organigram</strong>
-</p>
+# organigram
 
 Declaratively generate visual child-parent relationships in an organised tree-shape diagram.
 
